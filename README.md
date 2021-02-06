@@ -1,2 +1,4 @@
-# pd
-simple docker image of python flask application used to illustrate some simple aspects of image build in docker
+# Poznaj Docker
+
+Seria obrazów PD omawianych wtrakcie lekcji w szkoleniu [Poznaj Docker](https://poznajdocker.pl)
+
