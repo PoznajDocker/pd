@@ -1,4 +1,4 @@
 # Poznaj Docker
 
-Seria obrazów PD omawianych wtrakcie lekcji w szkoleniu [Poznaj Docker](https://poznajdocker.pl)
+Seria obrazów dockerowych omawianych wtrakcie lekcji w szkoleniu [Poznaj Docker](https://poznajdocker.pl)
 
